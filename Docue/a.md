@@ -47,3 +47,5 @@ Economy has park kind arch benefit.
 Economy has park kind arch marry.
 
 Economy has park kind arch land.
+
+Economy has major.
